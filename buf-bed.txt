@@ -1,0 +1,10 @@
+hello
+######   #######  ######
+#     #  #        #     #
+#     #  #        #     #
+######   #####    #     #
+#     #  #        #     #
+#     #  #        #     #
+######   #######  ######
+
+fdsfkasdfaskfThis training is provided by LinuxTrainingAcademy.com.
